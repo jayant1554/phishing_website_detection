@@ -24,5 +24,5 @@ Phishing attacks are a significant security threat in the digital world. Our mod
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayant1554/phishing-website-detection.git
-   cd phishing-website-detection
+   git clone https://github.com/jayant1554/phishing_website_detection.git
+   cd phishing_website_detection
